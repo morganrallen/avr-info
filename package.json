@@ -1,0 +1,22 @@
+{
+  "name": "avr-info",
+  "version": "0.0.1",
+  "description": "Database of AVR chip info",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "avr",
+    "atmel",
+    "memory"
+  ],
+  "author": "Morgan 'ARR!' Allen",
+  "license": "MIT",
+  "devDependencies": {
+    "jsdom": "*"
+  },
+  "engine": {
+    "node": "<=0.10.15"
+  }
+}
