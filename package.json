@@ -1,7 +1,15 @@
 {
   "name": "avr-info",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Database of AVR chip info",
+  "homepage": "https://github.com/morganrallen/avr-info",
+  "bugs": {
+    "url": "https://github.com/morganrallen/avr-info/issues",
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/morganrallen/avr-info.git"
+  },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
