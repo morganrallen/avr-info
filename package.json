@@ -4,7 +4,7 @@
   "description": "Database of AVR chip info",
   "homepage": "https://github.com/morganrallen/avr-info",
   "bugs": {
-    "url": "https://github.com/morganrallen/avr-info/issues",
+    "url": "https://github.com/morganrallen/avr-info/issues"
   },
   "repository": {
     "type": "git",
