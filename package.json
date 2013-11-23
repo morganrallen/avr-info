@@ -1,6 +1,6 @@
 {
   "name": "avr-info",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Database of AVR chip info",
   "homepage": "https://github.com/morganrallen/avr-info",
   "bugs": {
@@ -23,8 +23,5 @@
   "license": "MIT",
   "devDependencies": {
     "jsdom": "*"
-  },
-  "engine": {
-    "node": "<=0.10.15"
   }
 }
